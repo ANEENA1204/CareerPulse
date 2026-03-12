@@ -1,0 +1,12 @@
+{
+  "feature_cols": [
+    "Age",
+    "Gender",
+    "Stream",
+    "Internships",
+    "CGPA",
+    "Hostel",
+    "HistoryOfBacklogs"
+  ],
+  "accuracy": 0.7811447811447811
+}
