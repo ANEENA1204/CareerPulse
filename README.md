@@ -1,4 +1,4 @@
-#CareerPulse
+# CareerPulse
 CareerPulse is a data driven placement and employbility analysis system
 
 ## Features
